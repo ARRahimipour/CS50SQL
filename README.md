@@ -2,8 +2,8 @@ Harvard CS50SQL — 2023 Solutions 😎
 =====================
 
 -   [Course Link](https://cs50.harvard.edu/sql/2023/)
--   [My Certificate]()
--   [Final Project]()
+-   [My Certificate](https://cs50.harvard.edu/certificates/1c378a4d-bd63-41c7-a106-5ba8baff8168.png?size=letter)
+-   [Final Project](https://github.com/alirezarpa/Vocabulary-Manager)
 
 ## What is it?
 
